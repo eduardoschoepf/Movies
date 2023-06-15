@@ -1,3 +1,6 @@
+# Movies
+![Movies](/assets/movies.jpg)
+
 **EXPO framework**
  
 C’est quoi Expo ?  
