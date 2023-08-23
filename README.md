@@ -1,18 +1,13 @@
-# Movies
-![Movies](/assets/movies.jpg)
+# Movies  
+Ce projet a été créé dans le cadre d'une expérience pratique de développement d'applications en ReactNative.  
+L'application se connecte à l'API [TMDB](https://developers.themoviedb.org/3/getting-started/introduction) pour obtenir des informations sur les films et les séries télévisées.
 
-**EXPO framework**
- 
-C’est quoi Expo ?  
-Expo est un framework et une plateforme pour les applications React. Il s’agit d’un ensemble d’outils et de services construits autour de React Native et de plateformes natives qui vous aident à développer, créer, déployer et itérer rapidement sur des applications Ios, Android et Web à partir de la même codebase JavaScript / TypeScript.
 
-**APP Movies**  
-npx expo --version: 6.0.8  
-react-native -v: react-native-cli: 2.0.1; react-native: 0.68.2  
-Expo SDK: 45  
+<img src="/assets/movies.jpg" alt="Movies interface" width="300"/>
+
 
 **CONFIGURATION**  
-Vous devez ajouter une clé pour accéder à l'API TMDBApi (https://developers.themoviedb.org/3/getting-started/introduction)  
+Vous devez ajouter une clé pour accéder à l'API [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)  
 1. Créer un fichier APIToken.js dans le dossier API  
 2. Ajouter le code suivant
 ```
@@ -21,8 +16,13 @@ const Constants = {
 }
   
 export default Constants
-```
-
+```  
+****************
+**APP Movies**  
+npx expo --version: 6.0.8  
+react-native -v: react-native-cli: 2.0.1; react-native: 0.68.2  
+Expo SDK: 45  
+****************
 **TERMINAL**   
 sudo npm install -g expo-cli  
 brew install watchman  
