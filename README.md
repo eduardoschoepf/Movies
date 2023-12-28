@@ -1,4 +1,6 @@
 # Movies  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Ce projet a été créé dans le cadre d'une expérience pratique de développement d'applications en ReactNative.  
 L'application se connecte à l'API [TMDB](https://developers.themoviedb.org/3/getting-started/introduction) pour obtenir des informations sur les films et les séries télévisées.
 
