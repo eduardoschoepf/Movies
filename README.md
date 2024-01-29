@@ -1,7 +1,7 @@
 # Movies Application
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-TThis application was developed as a result of my studies in React Native.  
+This application was developed as a result of my studies in React Native.  
 The application connects to the [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction) to retrieve information on movies and TV shows.  
 
 ## Features
